@@ -1,1 +1,1 @@
-# Computa-o-Paralela
+#  Disciplina de Computação Paralela - 5º Semestre
