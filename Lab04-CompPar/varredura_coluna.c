@@ -39,6 +39,6 @@ int main(int argc, char *argv[]) {
     printf("[Varredura Coluna] Pares: %ld | Tempo: %.6f segundos\n", pares, tempo);
     
     free(A);
-    
+
     return 0;
 }
