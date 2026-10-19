@@ -1,5 +1,3 @@
-
-
 // Kauê Lima Rodrigues Meneses - 10410594
 /*
  Exercício 1 - Regra do Trapézio com OpenMP (slides ch5, págs. 24 a 38)
